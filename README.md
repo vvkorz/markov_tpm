@@ -57,6 +57,11 @@ Each entry in the above matrix is a frequency with which firms *jumped* from one
 
 **Note**, that *TPM* here stands simply for a class name under which all functions are collected.
 
+## Some Links
+
+If you are interested in markov processes, [here](https://martin-thoma.com/python-markov-chain-packages/)
+is a relatively old but good overview of python packages. Additionally, [discreteMarkovChain](https://pypi.org/project/discreteMarkovChain/)
+looks like an advanced package.
 ## Authors
 
 * **Vladimir Korzinov** - *Initial work* - [vvkorz](https://github.com/vvkorz)
