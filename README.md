@@ -2,6 +2,8 @@
 
 Calculation of the transition probability matrix for a descrete markov process from an unbalanced [panel data](https://en.wikipedia.org/wiki/Panel_data).
 
+Used in the [marksim](https://github.com/vvkorz/marksim) package.
+
 Let's assume you have observations of 10 firms and their profits for the last 10 years. 
 Let's also assume that some observations are missing. 
 
